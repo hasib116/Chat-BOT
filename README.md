@@ -2,9 +2,9 @@
 
 
 Go to the terminal Install libraries
-pip install tensorflow numpy
+# pip install tensorflow numpy
 
 Run program
-python chatbot.py
+# python chatbot.py
 
 Enjoy it!
